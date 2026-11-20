@@ -108,6 +108,15 @@ Estos nueve proyectos de mi cuenta anterior conservan su historial de Git.
   <a href="https://github.com/ESGE-2804/Acortador-de-enlaces-AWS/commits/main/"><img alt="Último commit del acortador" src="https://img.shields.io/github/last-commit/ESGE-2804/Acortador-de-enlaces-AWS?label=Acortador&amp;style=flat-square&amp;color=247459" /></a>
 </p>
 
+### Gusanito de contribuciones
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ESGE-2804/ESGE-2804/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ESGE-2804/ESGE-2804/output/github-snake.svg" width="100%" alt="Gusanito animado que recorre las contribuciones de ESGE-2804" />
+  </picture>
+</p>
+
 ## Fuera del código
 
 Juego Valorant, Overwatch y GTA V. Escucho black metal y funk rock.
