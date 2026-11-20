@@ -92,6 +92,12 @@ Estos nueve proyectos de mi cuenta anterior conservan su historial de Git.
 
 ## Actividad en GitHub
 
+<p align="center">
+  <a href="https://github.com/ESGE-2804#contributions">
+    <img width="440" alt="Estadísticas públicas de GitHub de ESGE-2804" src="https://github-stats-extended.vercel.app/api?username=ESGE-2804&amp;show_icons=true&amp;custom_title=GitHub%20Stats&amp;bg_color=10231F&amp;title_color=95F6D1&amp;text_color=D8F2E9&amp;icon_color=95F6D1&amp;border_color=41675D&amp;border_radius=12&amp;locale=es" />
+  </a>
+</p>
+
 | Cuenta actual | Cuenta anterior |
 | :-- | :-- |
 | [Contribuciones de ESGE-2804](https://github.com/ESGE-2804#contributions) | [Historial público de Emili0s3bax](https://github.com/Emili0s3bax#contributions) |
