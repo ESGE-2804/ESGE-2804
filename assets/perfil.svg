@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="title">
-  <title id="title">Emilio Granda · Backend, desarrollo web y AWS</title>
+  <title id="title">Emilio Granda · Backend, redes y nube</title>
   <defs>
     <linearGradient id="bg" x2="1" y2="1">
       <stop stop-color="#10231f"/><stop offset="1" stop-color="#091412"/>
@@ -27,11 +27,11 @@
   <path d="M48 249H912" stroke="#34554d"/>
   <g font-family="monospace" fill="#a7d4c8" font-size="17">
     <text x="48" y="72" fill="#95f6d1" letter-spacing="3">ESGE-2804</text>
-    <text x="48" y="286">DESARROLLO WEB</text>
+    <text x="48" y="286">DESARROLLO WEB / SEGURIDAD</text>
     <text x="912" y="286" text-anchor="end">PYTHON / FASTAPI / AWS</text>
   </g>
   <text x="45" y="155" font-family="system-ui,sans-serif" font-size="71" font-weight="750" fill="#f0faf6">Emilio Granda</text>
-  <text x="49" y="207" font-family="system-ui,sans-serif" font-size="27" fill="#c0ddd5">Backend, interfaces web y nube</text>
+  <text x="49" y="207" font-family="system-ui,sans-serif" font-size="27" fill="#c0ddd5">Backend, redes y nube</text>
   <g fill="none" stroke="#539a8b">
     <circle cx="738" cy="160" r="80" stroke-opacity=".45"/>
     <circle class="pulse" cx="738" cy="160" r="68" stroke="#95f6d1"/>
