@@ -3,12 +3,15 @@
 </p>
 
 <p align="center">
+  <a href="mailto:emiliosgranda@gmail.com"><img src="https://img.shields.io/static/v1?label=Contacto&amp;message=Correo&amp;color=9D473C&amp;style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Contacto Correo" /></a>
+  <a href="https://github.com/ESGE-2804?tab=repositories"><img src="https://img.shields.io/static/v1?label=GitHub&amp;message=Repositorios&amp;color=247459&amp;style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Repositorios" /></a>
+</p>
+
+<p align="center">
   <a href="#sobre-mí">Sobre mí</a> ·
   <a href="#proyectos">Proyectos</a> ·
   <a href="#tecnologías">Tecnologías</a> ·
-  <a href="#archivo-de-proyectos">Archivo</a> ·
-  <a href="#contribuciones">Contribuciones</a> ·
-  <a href="https://github.com/ESGE-2804?tab=repositories">Repositorios</a>
+  <a href="#actividad-en-github">Actividad</a>
 </p>
 
 ## Sobre mí
@@ -19,7 +22,6 @@ Soy **Emilio Granda**, ingeniero de sistemas de **Ecuador**. Me interesan la cib
 - **Infraestructura y desarrollo.** Migración de servicios de **Java a Go** y gestión de contenedores con **Docker**.
 - **Ciberseguridad.** Pruebas de penetración en entornos controlados y análisis de vulnerabilidades con **Kali Linux**.
 
-[Escríbeme por correo](mailto:emiliosgranda@gmail.com)
 
 ## Proyectos
 
@@ -42,27 +44,19 @@ Una aplicación para generar enlaces cortos. La interfaz se sirve desde **Amazon
 
 </details>
 
-## Tecnologías
+### Más proyectos para explorar
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-007D9C?style=flat-square&amp;logo=go&amp;logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-B8500D?style=flat-square&amp;logo=openjdk&amp;logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-1976B9?style=flat-square&amp;logo=docker&amp;logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" />
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&amp;logo=kalilinux&amp;logoColor=white" />
-</p>
-
-| Área | Herramientas que uso en mis proyectos |
+| Proyecto | Qué puedes ver |
 | :-- | :-- |
-| Backend | Python · FastAPI · Go · Java · APIs REST |
-| Infraestructura | Amazon Web Services · S3 · EC2 · Nginx · Docker · Linux |
-| Redes y seguridad | Zabbix · pfSense · Kali Linux |
-| Datos | Amazon DynamoDB |
+| [Proyecto final de cuarto semestre](https://github.com/ESGE-2804/4to-Semestre---Proyecto-final) | Código e historial del proyecto académico. |
+| [Fake Store](https://github.com/ESGE-2804/Fake_Store) | Práctica de desarrollo web para una tienda. |
+| [UIDEPETS en Go](https://github.com/ESGE-2804/Golang_UIDEPETS) | Proyecto académico escrito en Go. |
+| [Streaming Server](https://github.com/ESGE-2804/Streaming_Server) | Práctica de streaming con Python. |
 
-## Archivo de proyectos
+<details>
+<summary><strong>Archivo de proyectos migrados</strong></summary>
 
-Estos proyectos de mi cuenta anterior ya están disponibles aquí con su historial de Git.
+Estos nueve proyectos de mi cuenta anterior conservan su historial de Git.
 
 | Área | Proyectos |
 | :-- | :-- |
@@ -70,10 +64,43 @@ Estos proyectos de mi cuenta anterior ya están disponibles aquí con su histori
 | Backend e infraestructura | [FastAPI](https://github.com/ESGE-2804/FastAPI) · [Streaming Server](https://github.com/ESGE-2804/Streaming_Server) |
 | Prácticas | [Examen práctico](https://github.com/ESGE-2804/First-term-exam---Practical) · [Taller de paquetes](https://github.com/ESGE-2804/Taller_Paquetes) · [HTML](https://github.com/ESGE-2804/HTML) · [Cifrado XOR](https://github.com/ESGE-2804/Encriptador-Desencriptador-XOR) |
 
-## Contribuciones
+</details>
 
-- [Actividad actual en ESGE-2804](https://github.com/ESGE-2804#contributions)
-- [Historial público de Emili0s3bax](https://github.com/Emili0s3bax#contributions)
+## Tecnologías
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%"><strong>Backend</strong><br/><br/>
+      <img src="https://img.shields.io/static/v1?label=&amp;message=Python&amp;color=3776AB&amp;style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/static/v1?label=&amp;message=FastAPI&amp;color=007968&amp;style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/static/v1?label=&amp;message=Go&amp;color=007D9C&amp;style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/static/v1?label=&amp;message=Java&amp;color=A6421B&amp;style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" /><br/><br/>APIs REST y migración de servicios
+    </td>
+    <td align="center" valign="top" width="33%"><strong>Nube e infraestructura</strong><br/><br/>
+      <img src="https://img.shields.io/static/v1?label=&amp;message=AWS&amp;color=84521E&amp;style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/static/v1?label=&amp;message=Docker&amp;color=1976B9&amp;style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/static/v1?label=&amp;message=Linux&amp;color=5C4A25&amp;style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" />
+      <img src="https://img.shields.io/static/v1?label=&amp;message=Nginx&amp;color=087747&amp;style=flat-square&amp;logo=nginx&amp;logoColor=white" alt="Nginx" /><br/><br/>S3, EC2 y DynamoDB
+    </td>
+    <td align="center" valign="top" width="33%"><strong>Redes y seguridad</strong><br/><br/>
+      <img src="https://img.shields.io/static/v1?label=&amp;message=Zabbix&amp;color=AD2631&amp;style=flat-square" alt="Zabbix" />
+      <img src="https://img.shields.io/static/v1?label=&amp;message=pfSense&amp;color=34536B&amp;style=flat-square&amp;logo=pfsense&amp;logoColor=white" alt="pfSense" />
+      <img src="https://img.shields.io/static/v1?label=&amp;message=Kali%20Linux&amp;color=35648B&amp;style=flat-square&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux" /><br/><br/>Monitoreo y seguridad perimetral
+    </td>
+  </tr>
+</table>
+
+## Actividad en GitHub
+
+| Cuenta actual | Cuenta anterior |
+| :-- | :-- |
+| [Contribuciones de ESGE-2804](https://github.com/ESGE-2804#contributions) | [Historial público de Emili0s3bax](https://github.com/Emili0s3bax#contributions) |
+| [Repositorios por lenguaje](https://github.com/ESGE-2804?tab=repositories) | [Repositorios originales](https://github.com/Emili0s3bax?tab=repositories) |
+
+<p>
+  <a href="https://github.com/ESGE-2804/ESGE-2804/commits/main/"><img alt="Último commit del perfil" src="https://img.shields.io/github/last-commit/ESGE-2804/ESGE-2804?label=Perfil&amp;style=flat-square&amp;color=247459" /></a>
+  <a href="https://github.com/ESGE-2804/Acortador-de-enlaces-AWS/commits/main/"><img alt="Último commit del acortador" src="https://img.shields.io/github/last-commit/ESGE-2804/Acortador-de-enlaces-AWS?label=Acortador&amp;style=flat-square&amp;color=247459" /></a>
+</p>
 
 ## Fuera del código
 
