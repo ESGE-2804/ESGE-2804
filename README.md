@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/perfil.svg" width="100%" alt="Emilio Granda · Backend, interfaces web y nube" />
+  <img src="./assets/perfil.svg" width="100%" alt="Emilio Granda · Backend, redes y nube" />
 </p>
 
 <p align="center">
@@ -43,7 +43,15 @@ Una aplicación para generar enlaces cortos. La interfaz se sirve desde **Amazon
 
 ## Archivo de proyectos
 
-También puedes explorar mi trabajo anterior en [Emili0s3bax](https://github.com/Emili0s3bax?tab=repositories).
+Estos proyectos de mi cuenta anterior ya están disponibles aquí con su historial de Git.
+
+| Área | Proyectos |
+| :-- | :-- |
+| Aplicaciones | [Proyecto final de cuarto semestre](https://github.com/ESGE-2804/4to-Semestre---Proyecto-final) · [Fake Store](https://github.com/ESGE-2804/Fake_Store) · [UIDEPETS en Go](https://github.com/ESGE-2804/Golang_UIDEPETS) |
+| Backend e infraestructura | [FastAPI](https://github.com/ESGE-2804/FastAPI) · [Streaming Server](https://github.com/ESGE-2804/Streaming_Server) |
+| Prácticas | [Examen práctico](https://github.com/ESGE-2804/First-term-exam---Practical) · [Taller de paquetes](https://github.com/ESGE-2804/Taller_Paquetes) · [HTML](https://github.com/ESGE-2804/HTML) · [Cifrado XOR](https://github.com/ESGE-2804/Encriptador-Desencriptador-XOR) |
+
+[Perfil y actividad anteriores](https://github.com/Emili0s3bax#contributions) · [Actividad de la cuenta actual](https://github.com/ESGE-2804#contributions)
 
 ## Fuera del código
 
