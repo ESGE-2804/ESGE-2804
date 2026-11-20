@@ -5,10 +5,11 @@
 <p align="center">
   <a href="#proyectos">Proyectos</a> ·
   <a href="#tecnologías">Tecnologías</a> ·
+  <a href="#archivo-de-proyectos">Archivo</a> ·
   <a href="https://github.com/ESGE-2804?tab=repositories">Repositorios</a>
 </p>
 
-Soy **Emilio Granda**. Construyo proyectos que conectan interfaces web, APIs y bases de datos. En mis repositorios exploro cómo desplegar esas piezas en AWS con Python y FastAPI.
+Soy **Emilio Granda**, de **Ecuador**. Desarrollo aplicaciones web y APIs, y experimento con infraestructura, redes y seguridad. Entre mis prácticas están el monitoreo con **Zabbix**, la seguridad perimetral con **pfSense** y la migración de servicios de **Java a Go** con **Docker**.
 
 ## Proyectos
 
@@ -35,6 +36,24 @@ Una aplicación para generar enlaces cortos. La interfaz se sirve desde **Amazon
 
 | Área | Herramientas que uso en mis proyectos |
 | :-- | :-- |
-| Backend | Python · FastAPI · APIs REST |
-| Infraestructura | Amazon Web Services · S3 · EC2 · Nginx |
+| Backend | Python · FastAPI · Go · Java · APIs REST |
+| Infraestructura | Amazon Web Services · S3 · EC2 · Nginx · Docker · Linux |
+| Redes y seguridad | Zabbix · pfSense · Kali Linux |
 | Datos | Amazon DynamoDB |
+
+## Archivo de proyectos
+
+También puedes explorar mi trabajo anterior en [Emili0s3bax](https://github.com/Emili0s3bax?tab=repositories).
+
+## Fuera del código
+
+Juego Valorant, Overwatch y GTA V. Escucho black metal y funk rock.
+
+<details>
+<summary><strong>Mi equipo de trabajo</strong></summary>
+
+HP Victus 15 · NVIDIA RTX 2050 · 32 GB DDR4 · SSD de 1 TB.
+
+</details>
+
+[Contacto por correo](mailto:emiliosgranda@gmail.com)
