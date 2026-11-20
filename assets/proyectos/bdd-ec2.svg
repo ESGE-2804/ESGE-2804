@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="210" viewBox="0 0 540 210" role="img" aria-labelledby="title">
+  <title id="title">Base de datos en EC2 · Práctica de infraestructura · Amazon EC2</title>
+  <rect x="1" y="1" width="538" height="208" rx="20" fill="#11231f" stroke="#41675d" stroke-width="2"/>
+  <path d="M24 30v32m0 80v36m0 0h492" fill="none" stroke="#34554d"/>
+  <circle cx="24" cy="30" r="3" fill="#f2aeb0"/>
+  <path d="M412 53h32l16-15h60m-73 100 15-14h58" fill="none" stroke="#f2aeb0" stroke-opacity=".25"/>
+  <circle cx="475" cy="91" r="43" fill="#f2aeb0" fill-opacity=".09" stroke="#f2aeb0" stroke-opacity=".5"/>
+  <g transform="translate(455 71) scale(.77)" fill="none" stroke="#f2aeb0" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M5 10a21 7 0 1 0 42 0 21 7 0 1 0-42 0 M5 10v30c0 9 42 9 42 0V10 M5 25c0 9 42 9 42 0"/>
+  </g>
+  <g font-family="system-ui,sans-serif">
+    <text x="42" y="83" font-size="30" font-weight="700" fill="#f0faf6">Base de datos en EC2</text>
+    <text x="42" y="125" font-size="21" fill="#c0ddd5">Práctica de infraestructura</text>
+  </g>
+  <text x="42" y="166" font-family="monospace" font-size="16" fill="#f2aeb0">Amazon EC2</text>
+  <path d="M508 158h9v9m0-9-11 11" fill="none" stroke="#f2aeb0" stroke-width="2" stroke-linecap="round"/>
+</svg>

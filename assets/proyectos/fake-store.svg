@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="210" viewBox="0 0 540 210" role="img" aria-labelledby="title">
+  <title id="title">Fake Store · API para una tienda · Programación web · Python</title>
+  <rect x="1" y="1" width="538" height="208" rx="20" fill="#11231f" stroke="#41675d" stroke-width="2"/>
+  <path d="M24 30v32m0 80v36m0 0h492" fill="none" stroke="#34554d"/>
+  <circle cx="24" cy="30" r="3" fill="#e9bc76"/>
+  <path d="M412 53h32l16-15h60m-73 100 15-14h58" fill="none" stroke="#e9bc76" stroke-opacity=".25"/>
+  <circle cx="475" cy="91" r="43" fill="#e9bc76" fill-opacity=".09" stroke="#e9bc76" stroke-opacity=".5"/>
+  <g transform="translate(455 71) scale(.77)" fill="none" stroke="#e9bc76" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M3 4h7l7 26h28l6-19H12 M17 36h27 M20 47h1 M42 47h1"/>
+  </g>
+  <g font-family="system-ui,sans-serif">
+    <text x="42" y="83" font-size="30" font-weight="700" fill="#f0faf6">Fake Store</text>
+    <text x="42" y="125" font-size="21" fill="#c0ddd5">API para una tienda</text>
+  </g>
+  <text x="42" y="166" font-family="monospace" font-size="16" fill="#e9bc76">Programación web · Python</text>
+  <path d="M508 158h9v9m0-9-11 11" fill="none" stroke="#e9bc76" stroke-width="2" stroke-linecap="round"/>
+</svg>

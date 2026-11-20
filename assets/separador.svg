@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="34" viewBox="0 0 960 34" aria-hidden="true">
+  <defs><linearGradient id="line"><stop stop-color="#73998d" stop-opacity="0"/><stop offset=".43" stop-color="#73998d"/><stop offset=".57" stop-color="#73998d"/><stop offset="1" stop-color="#73998d" stop-opacity="0"/></linearGradient></defs>
+  <style>
+    .signal { stroke-dasharray: 25 960; animation: sweep 8s linear infinite; }
+    @keyframes sweep { from { stroke-dashoffset: 25; } to { stroke-dashoffset: -960; } }
+    @media (prefers-reduced-motion: reduce) { .signal { animation: none; } }
+  </style>
+  <path d="M2 17h409l13-8h32l12 8h24l12 8h32l13-8h409" fill="none" stroke="url(#line)" stroke-width="2"/>
+  <path class="signal" d="M2 17h409l13-8h32l12 8h24l12 8h32l13-8h409" pathLength="960" fill="none" stroke="#53ae94" stroke-width="2"/>
+</svg>

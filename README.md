@@ -22,6 +22,9 @@ Soy **Emilio Granda**, ingeniero de sistemas de **Ecuador**. Me interesan la cib
 - **Infraestructura y desarrollo.** Migración de servicios de **Java a Go** y gestión de contenedores con **Docker**.
 - **Ciberseguridad.** Pruebas de penetración en entornos controlados y análisis de vulnerabilidades con **Kali Linux**.
 
+<img src="./assets/terminal.svg" width="100%" alt="Terminal animada con Python, FastAPI, AWS, Docker, Zabbix y pfSense" />
+
+<img src="./assets/separador.svg" width="100%" alt="" />
 
 ## Proyectos
 
@@ -33,25 +36,22 @@ Una aplicación para generar enlaces cortos. La interfaz se sirve desde **Amazon
 
 [Ver el código y la guía de despliegue →](https://github.com/ESGE-2804/Acortador-de-enlaces-AWS#readme)
 
-<details>
-<summary><strong>Explorar más proyectos</strong></summary>
+### Proyectos seleccionados
 
-| Proyecto | Qué encontrarás |
-| :-- | :-- |
-| [FastAPI en AWS](https://github.com/ESGE-2804/FastAPI-en-AWS) | Práctica de backend con FastAPI en AWS. |
-| [Base de datos en EC2](https://github.com/ESGE-2804/BDD-en-EC2) | Práctica con una base de datos en Amazon EC2. |
-| [Frontend](https://github.com/ESGE-2804/Parcial-1-_-5to-Semestre_Frontend) y [Backend](https://github.com/ESGE-2804/Parcial-1-_-5to-Semestre_Backend) | Dos repositorios de un proyecto académico de quinto semestre. |
-
-</details>
-
-### Más proyectos para explorar
-
-| Proyecto | Qué puedes ver |
-| :-- | :-- |
-| [Proyecto final de cuarto semestre](https://github.com/ESGE-2804/4to-Semestre---Proyecto-final) | Código e historial del proyecto académico. |
-| [Fake Store](https://github.com/ESGE-2804/Fake_Store) | Práctica de desarrollo web para una tienda. |
-| [UIDEPETS en Go](https://github.com/ESGE-2804/Golang_UIDEPETS) | Proyecto académico escrito en Go. |
-| [Streaming Server](https://github.com/ESGE-2804/Streaming_Server) | Práctica de streaming con Python. |
+<table>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/ESGE-2804/4to-Semestre---Proyecto-final"><img src="./assets/proyectos/visual-hub.svg" width="100%" alt="Engineering Visual Hub · Documentación técnica visual · Proyecto de cuarto semestre" /></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/ESGE-2804/Fake_Store"><img src="./assets/proyectos/fake-store.svg" width="100%" alt="Fake Store · API para una tienda · Programación web · Python" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/ESGE-2804/Golang_UIDEPETS"><img src="./assets/proyectos/uidepets.svg" width="100%" alt="UIDEPETS · Proyecto académico · Go" /></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/ESGE-2804/Streaming_Server"><img src="./assets/proyectos/streaming.svg" width="100%" alt="Streaming Server · Servidor de video en red local · Python · LAN" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/ESGE-2804/FastAPI-en-AWS"><img src="./assets/proyectos/fastapi-aws.svg" width="100%" alt="FastAPI en AWS · Práctica de backend en la nube · Python · FastAPI · AWS" /></a></td>
+    <td width="50%" valign="top"><a href="https://github.com/ESGE-2804/BDD-en-EC2"><img src="./assets/proyectos/bdd-ec2.svg" width="100%" alt="Base de datos en EC2 · Práctica de infraestructura · Amazon EC2" /></a></td>
+  </tr>
+</table>
 
 <details>
 <summary><strong>Archivo de proyectos migrados</strong></summary>
@@ -62,6 +62,7 @@ Estos nueve proyectos de mi cuenta anterior conservan su historial de Git.
 | :-- | :-- |
 | Aplicaciones | [Proyecto final de cuarto semestre](https://github.com/ESGE-2804/4to-Semestre---Proyecto-final) · [Fake Store](https://github.com/ESGE-2804/Fake_Store) · [UIDEPETS en Go](https://github.com/ESGE-2804/Golang_UIDEPETS) |
 | Backend e infraestructura | [FastAPI](https://github.com/ESGE-2804/FastAPI) · [Streaming Server](https://github.com/ESGE-2804/Streaming_Server) |
+| Proyecto de quinto semestre | [Frontend](https://github.com/ESGE-2804/Parcial-1-_-5to-Semestre_Frontend) · [Backend](https://github.com/ESGE-2804/Parcial-1-_-5to-Semestre_Backend) |
 | Prácticas | [Examen práctico](https://github.com/ESGE-2804/First-term-exam---Practical) · [Taller de paquetes](https://github.com/ESGE-2804/Taller_Paquetes) · [HTML](https://github.com/ESGE-2804/HTML) · [Cifrado XOR](https://github.com/ESGE-2804/Encriptador-Desencriptador-XOR) |
 
 </details>
@@ -89,6 +90,8 @@ Estos nueve proyectos de mi cuenta anterior conservan su historial de Git.
     </td>
   </tr>
 </table>
+
+<img src="./assets/separador.svg" width="100%" alt="" />
 
 ## Actividad en GitHub
 
