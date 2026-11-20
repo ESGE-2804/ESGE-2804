@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title">
+  <title id="title">Acortador de enlaces en AWS · Interfaz en S3, API en EC2 y datos en DynamoDB</title>
+  <rect x="1" y="1" width="958" height="228" rx="22" fill="#11231f" stroke="#41675d" stroke-width="2"/>
+  <circle cx="47" cy="48" r="5" fill="#f3cc83"/>
+  <text x="66" y="54" font-family="monospace" font-size="17" letter-spacing="2" fill="#f3cc83">PROYECTO DESTACADO</text>
+  <text x="43" y="109" font-family="system-ui,sans-serif" font-size="42" font-weight="700" fill="#f0faf6">Acortador de enlaces en AWS</text>
+  <g font-family="monospace" font-size="21" fill="#d8f2e9">
+    <rect x="44" y="145" width="241" height="49" rx="10" fill="#203c35"/>
+    <rect x="315" y="145" width="273" height="49" rx="10" fill="#203c35"/>
+    <rect x="618" y="145" width="296" height="49" rx="10" fill="#203c35"/>
+    <text x="64" y="176">S3 / Interfaz</text>
+    <text x="335" y="176">EC2 / FastAPI</text>
+    <text x="638" y="176">DynamoDB / Datos</text>
+  </g>
+  <path d="M285 169h30m-7-5 5 5-5 5m280-5h30m-7-5 5 5-5 5" fill="none" stroke="#95f6d1" stroke-width="2"/>
+</svg>
